@@ -5,7 +5,7 @@
 #include <unordered_map>
 #include <string>
 
-extern class homo_sapiens {};
+class homo_sapiens;
 
 class LunaticLegacy : public homo_sapiens {
 public:
