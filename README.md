@@ -15,7 +15,7 @@ public:
   }
 
   void Nya() const {
-    std::cout << LunaticLegacy::NekoMimi;
+    std::cout << LunaticLegacy::NekoMimi << std::endl;
   }
 
 private:
