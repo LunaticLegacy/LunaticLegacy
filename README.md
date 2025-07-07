@@ -51,8 +51,8 @@ private:
 std::unordered_map<std::string, std::string> LunaticLegacy::skillMap = {
     {"有什么技能", "C++、Python（尤其torch），单片机一点的话玩过ESP32，前端会一点html、CSS、JS"},
     {"喜欢做什么", "摸鱼、发白丝、写点奇奇怪怪的小说文本（C++daisuki）"},
-    {"计划中要学什么", "Lingua Latina, Esparanto, 日本語, More C++, Git怎么用, 社交能力, etc."},
-    {"正在面对什么", "毕业论文喵！！我要疯了喵嗷嗷嗷嗷啊啊啊啊啊——"}.
+    {"计划中要学什么", "Lingua Latina, Esparanto, 日本語, More C++, Rust, Git怎么用, 社交能力, angular, etc."},
+    {"正在面对什么", "本科GIS系毕业，即将启动计算机科学第二学位。"}.
     {"一句话介绍一下你自己吧", "🐾一个摸鱼的大型猫科动物。"}
 };
 ```
