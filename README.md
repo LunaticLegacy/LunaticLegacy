@@ -30,7 +30,7 @@ private:
   int age() const { return 21; }
   std::string gender() const { return std::string("femboy").substr(3); }
   std::string email() const { return "lunaticlegacy@163.com"; }
-  std::string github_id() const { return "月と猫 - LunaNeko"; }
+  std::string github_id() const { return "lunaticlegacy"; }
   std::string gitee_id() const { return "LunaNeko"; }
 
   // needing
