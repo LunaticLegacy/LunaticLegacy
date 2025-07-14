@@ -45,7 +45,7 @@ private:
   ;
 
   // what happened if i'm dead
-  virutal ~LunaticLegacy() {
+  virtual ~LunaticLegacy() {
     std::terminate();
   }
 }
