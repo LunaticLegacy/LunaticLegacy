@@ -5,7 +5,7 @@
 #include <unordered_map>
 #include <string>
 
-class homo_sapiens;
+extern class homo_sapiens;
 
 class LunaticLegacy : public homo_sapiens {
 public:
@@ -51,7 +51,7 @@ private:
 }
 
 static std::unordered_map<std::string, std::string> LunaticLegacy::skillMap = {
-    {"有什么技能", "C++、Python（尤其torch），单片机一点的话玩过ESP32，前端会一点html、CSS、JS，计划着搞一点TypeScript。"},
+    {"有什么技能", "C++、Python（尤其torch）、Java，单片机一点的话玩过ESP32，前端会一点html、CSS、JS，计划着搞一点TypeScript。"},
     {"喜欢做什么", "摸鱼、写代码、写点奇奇怪怪的小说文本（C++ daisuki）。"},
     {"计划中要学什么", "Lingua Latina, Esparanto, 日本語, More C++, Rust, Git怎么用, 社交能力, angular, etc."},
     {"正在面对什么", "本科GIS系毕业，即将启动计算机科学第二学位。"},
