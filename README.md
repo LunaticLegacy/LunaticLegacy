@@ -16,7 +16,7 @@
 - 🎓 GIS 本科毕业，正在读计算机科学第二学位  
 - 💻 主力：**C++ / Python (PyTorch) / Java**
 - 🔧 玩过：ESP32；前端会一点 HTML/CSS/JS  
-- 📚 正在学：TypeScript、Rust、Git、Angular、日本語、Esperanto  
+- 📚 正在学：TypeScript、Rust、Angular、日本語、Esperanto  
 - 🧠 状态：有焦虑，但持续推进中
 
 ---
