@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">&#26376;&#12392;&#29483; - LunaNeko's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 292, Total PRs: 35, Total Issues: 24, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  : 292, Total PRs: 37, Total Issues: 24, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 172.9064560514948;
+        stroke-dashoffset: 171.8488166193803;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >35</text>
+      >37</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >21</text>
+      >22</text>
     </g>
   </g>
     </svg>
