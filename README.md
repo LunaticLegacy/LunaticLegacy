@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Luna 👋
-### 🐾 一个摸鱼的大型猫科动物（C++ daisuki）
+### 🐾 一只时睡时醒时扑腾的大型猫科动物
 
 [![GitHub followers](https://img.shields.io/github/followers/lunaticlegacy?style=flat-square)](https://github.com/lunaticlegacy)
 [![GitHub stars](https://img.shields.io/github/stars/lunaticlegacy?style=flat-square)](https://github.com/lunaticlegacy)
@@ -14,9 +14,9 @@
 ## About Me
 
 - 🎓 GIS 本科毕业，正在读计算机科学第二学位  
-- 💻 主力：**C++ / Python (PyTorch) / Java**
-- 🔧 玩过：ESP32；前端会一点 HTML/CSS/JS  
-- 📚 正在学：TypeScript、Rust、Angular、日本語、Esperanto  
+- 💻 主力：**C++ / Python (PyTorch) / Java / Agentic Coding**
+- 🔧 玩过：ESP32；前端会一点 HTML/CSS/
+- 📚 正在学：TypeScript、Go、Agent 相关的东西  
 - 🧠 状态：有焦虑，但持续推进中
 
 ---
