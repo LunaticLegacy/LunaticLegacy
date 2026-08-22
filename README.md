@@ -113,7 +113,6 @@ int main() {
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" />
   <img height="165" src="./profile/top-langs.svg" />
 </p>
 
