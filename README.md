@@ -14,9 +14,9 @@
 ## About Me
 
 - 🎓 GIS 本科毕业，正在读计算机科学第二学位  
-- 💻 主力：**C++ / Python (PyTorch) / Java / Agentic Coding**
-- 🔧 玩过：ESP32；前端会一点 HTML/CSS/
-- 📚 正在学：`IELTS`（P0）、Go、Agent 相关的东西  
+- 💻 主力：**C++ / Python / Java / Agentic Coding**
+- 🔧 玩过：ESP32；前端会一点 HTML/CSS/，Agent 开发和长生命周期支持
+- 📚 正在学：TypeScript，如何和焦虑共舞
 - 🧠 状态：有焦虑，但持续推进中
 
 ---
